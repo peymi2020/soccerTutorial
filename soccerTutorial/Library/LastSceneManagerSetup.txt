@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Soccer-20230718T211835Z-001/Soccer/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
